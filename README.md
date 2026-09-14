@@ -1,5 +1,5 @@
 \# Personal Budget Assistant Agent (Topic T1)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek Jha/YBudget_Agent/blob/main/demo_notebook.ipynb)
 
 
 CSE476 — Agentic AI and Intelligent Automation, CA1 Project 1
